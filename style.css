@@ -1,0 +1,11 @@
+table,th,td{
+    border: 1px solid gray;
+    border-collapse: collapse;
+    font-size: 25px;
+    padding-left: 10px;
+}
+.blue{
+    background-color: aqua;
+}
+
+
